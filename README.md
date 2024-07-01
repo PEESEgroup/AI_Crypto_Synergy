@@ -4,7 +4,7 @@ This study investigates the potential synergies between AI data centers and cryp
 2. Data: include all data used during the analysis.
 
 ## Requirements
-To run the codes in this repository, the following Python and core packages must be installed (version is given for refenrence):
+To run the codes in this repository, the following package can be used (version is given for refenrence):
 - GAMS Distribution 40.1.0
 
 ## Codes
