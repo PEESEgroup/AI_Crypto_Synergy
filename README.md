@@ -7,6 +7,11 @@ This study investigates the potential synergies between AI data centers and cryp
 To run the codes in this repository, the following Python and core packages must be installed (version is given for refenrence):
 - GAMS Distribution 40.1.0
 
+## Codes
+
+## Data
+
+
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 
